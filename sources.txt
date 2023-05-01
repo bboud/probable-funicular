@@ -1,0 +1,2 @@
+https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::weather-radar-stations/explore
+https://www.spc.noaa.gov/wcm/data/SPC_severe_database_description.pdf
